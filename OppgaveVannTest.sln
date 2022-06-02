@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveVannTest", "OppgaveVannTest\OppgaveVannTest.csproj", "{8BCB884E-3924-4B17-8106-C094FEF5F1EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveVann", "OppgaveVann\OppgaveVann.csproj", "{A7930A51-6F58-4221-BF52-1FBC9E573EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BCB884E-3924-4B17-8106-C094FEF5F1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCB884E-3924-4B17-8106-C094FEF5F1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCB884E-3924-4B17-8106-C094FEF5F1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCB884E-3924-4B17-8106-C094FEF5F1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7930A51-6F58-4221-BF52-1FBC9E573EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7930A51-6F58-4221-BF52-1FBC9E573EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7930A51-6F58-4221-BF52-1FBC9E573EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7930A51-6F58-4221-BF52-1FBC9E573EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA529BD-DB66-4800-8CEC-B1B48F73E94A}
+	EndGlobalSection
+EndGlobal
